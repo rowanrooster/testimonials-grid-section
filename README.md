@@ -11,4 +11,4 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/profile/rowanrooster)
-- [Live Preview](https://rowanrooster.github.io/product-card-component/)
+- [Live Preview](https://rowanrooster.github.io/testimonials-grid-section/)
